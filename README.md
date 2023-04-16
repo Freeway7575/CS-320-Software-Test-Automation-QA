@@ -44,7 +44,7 @@ The appointment object shall have a required description String field that canno
 The appointment service shall be able to add appointments with a unique appointmentId.
 The appointment service shall be able to delete appointments per appointmentId.
 
-### Specifically, the following criteria must be addressed:
+### Criteria addressed for Project One:
 Verify the Contact class meets the requirements through JUnit tests.
 Verify the ContactService class meets the requirements through JUnit tests.
 Verify the Task class meets the requirements through JUnit tests.
